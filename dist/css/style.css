@@ -1,0 +1,55 @@
+header {
+    width: 100%;
+    height: 2060px;
+    background: url("../img/front-page-header.webp");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body {
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+}
+
+.top-header {
+    padding-top: 20px;
+    margin-left: 106px;
+    margin-right: 100px;
+    height: 230px;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li {
+    display: inline;
+    color: white;
+    margin-right: 42px;
+    line-height: 40px;
+    font-weight: 700;
+    font-size: 14px; 
+}
+
+ul li a {
+    color: #fff;
+    font-size: 16px;
+    line-height: 26px;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#ffde00;
+}
+
+ul {
+    margin-top: 30px;
+    padding-inline-start: 0px;
+    white-space: nowrap;
+    list-style-type: none;
+}
+
+.logo {
+    height: fit-content;
+    margin-right: 300px;
+}
