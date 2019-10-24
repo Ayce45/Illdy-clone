@@ -1,9 +1,9 @@
 # Illdy-clone
 
-* top-header ✔️
-* bottom-header ✔️
+* top-header ✔
+* bottom-header ✔️️️️
 
-* section about
+* section about ✔
 * section projects
 * section testimonials
 * section services
