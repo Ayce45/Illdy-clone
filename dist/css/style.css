@@ -1,6 +1,6 @@
 header {
     width: 100%;
-    height: 2060px;
+    height: 923px;
     background: url("../img/front-page-header.webp");
     background-attachment: fixed;
     background-position: center;
@@ -16,7 +16,7 @@ body {
     padding-top: 20px;
     margin-left: 106px;
     margin-right: 100px;
-    height: 230px;
+    height: 80px;
     display: flex;
     justify-content: space-between;
 }
@@ -38,7 +38,7 @@ ul li a {
     text-decoration: none;
 }
 
-a:hover {
+nav a:hover {
     color:#ffde00;
 }
 
@@ -52,4 +52,58 @@ ul {
 .logo {
     height: fit-content;
     margin-right: 300px;
+}
+
+h1 {
+    line-height: 84px;
+    font-weight: 700;
+    font-size: 80px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.dot {
+    color: #ffde00;
+    word-wrap: break-word;
+}
+
+.bottom-header {
+    text-align: center;
+    margin-top: 240px;
+}
+
+.p-header {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.p-header p {
+    width: 745px;
+    margin: -10px;
+    margin-bottom: 70px;
+}
+
+.button {
+    width: auto;
+    height: 63px;
+    line-height: 57px;
+    margin: 0 15px;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 16px;
+    color: #fff;
+    font-family: lato;
+    min-width: 242px;
+    text-decoration: none;
+}
+
+.download{
+    background-color: #ffde00;
+}
+
+.learnmore{
+    background-color: rgba(0, 0, 0, 0.10);
+    border: 3px solid #fff;
+    border-radius: 3px;
 }
