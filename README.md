@@ -1,7 +1,7 @@
 # Illdy-clone
 
 * top-header ✔️
-* bottom-header
+* bottom-header ✔️
 
 * section about
 * section projects
