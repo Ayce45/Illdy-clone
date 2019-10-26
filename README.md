@@ -1,11 +1,11 @@
 # Illdy-clone
 
 * top-header ✔
-* bottom-header ✔️️️️
+* bottom-header ✔
 
 * section about ✔
-* section projects
-* section testimonials
+* section projects ✔
+* section testimonials "-✔"
 * section services
 * section latest-news
 * section counter
