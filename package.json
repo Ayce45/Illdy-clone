@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Clone of colorlib wp theme illdy",
   "main": "index.js",
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "font-awesome": "4.7.0",
+    "jquery": "3.4.1",
+    "popper.js": "1.16.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
