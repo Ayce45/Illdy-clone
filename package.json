@@ -1,25 +1,27 @@
 {
-  "name": "illdy-clone",
-  "version": "1.0.0",
-  "description": "Clone of colorlib wp theme illdy",
-  "main": "index.js",
-  "dependencies": {
-    "bootstrap": "4.3.1",
-    "font-awesome": "4.7.0",
-    "jquery": "3.4.1",
-    "popper.js": "1.16.0"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ayce45/illdy-clone.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ayce45/illdy-clone/issues"
-  },
-  "homepage": "https://github.com/Ayce45/illdy-clone#readme"
+    "name": "illdy-clone",
+    "version": "1.0.0",
+    "description": "Clone of colorlib wp theme illdy",
+    "main": "index.js",
+    "dev": "node-sass --watch src/scss -o dist/css",
+    "dependencies": {
+        "bootstrap": "4.3.1",
+        "font-awesome": "4.7.0",
+        "jquery": "3.4.1",
+        "node-sass": "^4.13.0",
+        "popper.js": "1.16.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Ayce45/illdy-clone.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Ayce45/illdy-clone/issues"
+    },
+    "homepage": "https://github.com/Ayce45/illdy-clone#readme"
 }
