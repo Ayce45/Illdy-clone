@@ -672,3 +672,36 @@ section h3 {
     text-decoration: none;
     transition: color .1s;
   }
+
+#services {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+  .service {
+    box-sizing: border-box;
+    width: 33%;  
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  .service-icon i {
+    font-size: 35px;
+  }
+
+  h5 {
+    font-size: 23px;
+    line-height: 32px;
+    font-weight: 700;
+    margin: 0;
+  }
+
+  .service-p {
+    width: 100%;
+    line-height: 26px;
+    color: #8c9597;
+    font-size: 16px;
+    font-family: lato;
+    font-weight: 400;
+  }

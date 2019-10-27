@@ -6,7 +6,7 @@
 * section about ✔
 * section projects ✔
 * section testimonials ✔
-* section services
+* section services ✔
 * section latest-news
 * section counter
 * section team
