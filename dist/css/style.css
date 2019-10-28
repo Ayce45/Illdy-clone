@@ -22,7 +22,7 @@ body {
     justify-content: space-between;
 }
 
-ul li {
+.top-header ul li {
     display: inline;
     color: white;
     margin-right: 42px;
@@ -319,11 +319,11 @@ section h3 {
 
 h6 {
     font-size: 20px;
-    line-height: 24px;
     font-weight: 700;
     color: white;
     font-family: poppins;
     margin-top: 15px;
+    line-height: 0px;
 }
 
 .gallery .control-operator:target~.controls .control-button {
@@ -863,4 +863,58 @@ h5 {
 
 #counter .count:last-child {
     border-right: none;
+}
+
+.team {
+    width: 33%;
+    display: flex;
+}
+
+.team .container {
+    flex-direction: column;
+    margin-left: 25px;
+}
+
+#our-team {
+    height: 520px;
+    padding: 80px 125px 100px;
+}
+
+.team img {
+    border-radius: 50%;
+    height: fit-content;
+}
+
+.team h5 {
+    margin: 12px 0 5px;
+    color: #5e5e5e;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 700;
+}
+
+.team h6 {
+    font-size: 16px;
+}
+
+.team p {
+    margin: 0px;
+    color: #8c9597;
+}
+
+.team .social {
+    list-style-type: none;
+}
+
+.social a {
+    border: 1px solid;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+}
+
+.team ul li {
+    display: inline;
 }
