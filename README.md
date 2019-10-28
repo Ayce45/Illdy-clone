@@ -8,7 +8,7 @@
 * section testimonials ✔
 * section services ✔
 * section latest-news ✔
-* section counter
+* section counter ✔
 * section team
 * section contact-us
 
