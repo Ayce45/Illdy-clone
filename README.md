@@ -12,7 +12,7 @@
 * section team ✔
 * section contact-us ✔
 
-* top-footer
-* bottom-footer
+* top-footer ✔
+* bottom-footer ✔
 
 * reponsive
