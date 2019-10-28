@@ -285,17 +285,44 @@ section h3 {
     display: flex;
 }
 
+.item {
+    padding-bottom: 50px;
+}
+
 #testimonials {
     margin-top: -60px;
-    height: 800px;
     background: url(../img/testiomnials-background.webp);
     background-size: cover;
+    padding-bottom: 50px;
 }
 
 #testimonials h3 {
     padding-top: 50px;
     margin-top: 60px;
     color: white;
+}
+
+.services-name {
+    font-size: 23px;
+    line-height: 32px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.post p {
+    font-size: 23px;
+    line-height: 32px;
+    font-weight: 700;
+    margin: 0;
+}
+
+#testimonials .testimonial-name {
+    margin-top: -15px;
+    background-color: transparent;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 700;
+    font-family: poppins;
 }
 
 .container-slide {
@@ -333,7 +360,7 @@ section h3 {
     top: -17px;
 }
 
-h6 {
+.testimonial-name {
     font-size: 20px;
     font-weight: 700;
     color: white;
@@ -706,7 +733,7 @@ h6 {
 
 .gallery .controls {
     position: absolute;
-    bottom: -80px;
+    bottom: -40px;
     width: 100%;
     text-align: center;
 }
