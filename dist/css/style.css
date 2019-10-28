@@ -11,6 +11,7 @@ header {
 body {
     margin: 0px;
     font-family: 'Lato', sans-serif;
+    color: #8c9597;
 }
 
 .top-header {
@@ -917,4 +918,97 @@ h5 {
 
 .team ul li {
     display: inline;
+}
+
+#contact-us {
+    padding: 80px 125px 100px;
+}
+
+.contact-top {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.label {
+    width: auto;
+    margin: 0;
+    padding: 0 20px 0 0;
+    border-right: 1px solid #e1e1e1;
+    display: table-cell;
+    font-weight: 400;
+    font-size: 20px;
+    color: #f1d204;
+    font-family: lato;
+    line-height: 26px;
+}
+
+.text {
+    font-size: 18px;
+    color: #8c9597;
+    font-family: lato;
+    display: grid;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.contact-us-social {
+    margin-left: 250px;
+}
+
+.row {
+    width: 33%;
+}
+
+#contact-us .container {
+    flex-direction: column;
+}
+
+.user {
+    display: flex;
+    width: 100%;
+}
+
+label {
+    font-size: 18px;
+}
+
+input {
+    background-color: #fcfcfc;
+    padding: 0 20px;
+    border: 1px solid #e1e1e1;
+    height: 35px;
+}
+
+textarea {
+    background-color: #fcfcfc;
+    padding: 0 20px;
+    border: 1px solid #e1e1e1;
+    resize: none;
+}
+
+.input-submit {
+    width: auto;
+    height: 44px;
+    background-color: #fff;
+    margin: 40px 0 0;
+    padding: 0 60px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f1d204;
+    float: right;
+    cursor: pointer;
+    color: white;
+    font-weight: 700;
+}
+
+.address-contact {
+    display: flex;
+}
+
+.support-contact {
+    display: flex;
 }

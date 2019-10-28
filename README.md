@@ -9,8 +9,8 @@
 * section services ✔
 * section latest-news ✔
 * section counter ✔
-* section team
-* section contact-us
+* section team ✔
+* section contact-us ✔
 
 * top-footer
 * bottom-footer
