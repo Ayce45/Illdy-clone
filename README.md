@@ -15,4 +15,4 @@
 * top-footer ✔
 * bottom-footer ✔
 
-* reponsive
+* reponsive ✔
